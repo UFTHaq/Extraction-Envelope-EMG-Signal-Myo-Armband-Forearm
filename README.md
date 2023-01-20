@@ -27,4 +27,21 @@ The Myo armband is a gesture controller that triggers a variety of actions on th
 Myo Armband will record EMG signal from 8 different angle, and give 8 point of view to record EMG from different handshapes or handmovements. Raw data will save to csv and you can process it to DataFrame using Pandas.
 
 ## Envelope Extraction
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/104829519/213707264-bc5d58a4-83e3-4232-8673-65e5ba05705c.png" width="900" height="180" />
+</p>
+In physics and engineering, the envelope of an oscillating signal is a smooth curve outlining its extremes The envelope thus generalizes the concept of a constant amplitude into an instantaneous amplitude. The figure illustrates a modulated sine wave varying between an upper envelope and a lower envelope. The envelope function may be a function of time, space, angle, or indeed of any variable. 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/104829519/213707308-92f7051c-be31-4d3d-9832-1ff7868834cd.png" width="900" height="180" />
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/104829519/213708051-4cfd0205-b905-46f3-b05b-e5ada99bf4c8.jpg" width="700" height="800" />
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/104829519/213717283-120c576e-a441-4a9c-bb69-a2b250b798fd.jpg" width="700" height="800" />
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/104829519/213717536-8e89eea7-2542-462b-bd3c-a235d1ca59eb.jpg" width="1000" height="160" />
+</p>
 
+Here we can use the data envelope to further project to make bionic arm from action potential from hand nervous system.
