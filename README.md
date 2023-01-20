@@ -11,12 +11,13 @@ If you consider this page is useful, please leave a star
 
 ## Myo Armband
 <p align="center">
-<img src="https://user-images.githubusercontent.com/104829519/213673258-a1f7efe1-59f5-4daa-95c6-db164ab327e4.png" width="300" height="300" />
+  <img src="https://user-images.githubusercontent.com/104829519/213673258-a1f7efe1-59f5-4daa-95c6-db164ab327e4.png" width="300" height="300" />
 </p>
+The Myo armband is a gesture controller that triggers a variety of actions on the computer based on the contractions of your muscles and the movements of your arm.
 
 ## Myo Armband on Forearm
 <p align="center">
-<img src="https://user-images.githubusercontent.com/104829519/213673306-698f3999-ed47-4407-b104-14f29260f781.jpg" width="350" height="250" />
+    <img src="https://user-images.githubusercontent.com/104829519/213673306-698f3999-ed47-4407-b104-14f29260f781.jpg" width="350" height="250" />
 </p>
 
 ## Raw Data Signal
