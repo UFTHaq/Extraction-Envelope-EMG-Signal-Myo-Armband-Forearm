@@ -10,10 +10,14 @@ How to get Envelope Extraction from EMG signals generated from Myo Armband senso
 If you consider this page is useful, please leave a star
 
 ## Myo Armband
-![Myo]<img src="https://user-images.githubusercontent.com/104829519/213673258-a1f7efe1-59f5-4daa-95c6-db164ab327e4.png" width="200" height="400" />
+<p align="center">
+<img src="https://user-images.githubusercontent.com/104829519/213673258-a1f7efe1-59f5-4daa-95c6-db164ab327e4.png" width="300" height="300" />
+</p>
 
 ## Myo Armband on Forearm
-![Myo Armband Forearm](https://user-images.githubusercontent.com/104829519/213673306-698f3999-ed47-4407-b104-14f29260f781.jpg | width = 250)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/104829519/213673306-698f3999-ed47-4407-b104-14f29260f781.jpg" width="350" height="250" />
+</p>
 
 ## Raw Data Signal
 
